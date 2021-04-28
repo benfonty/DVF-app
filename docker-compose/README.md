@@ -1,3 +1,7 @@
+# Ne pas oublier
+
+De faire `git submodule update --init --recursive`
+
 # Développer en local sans installer quoi que ce soit
 
 Le seul prérequis est d'avoir docker et docker-compose installé sur votre machine.
